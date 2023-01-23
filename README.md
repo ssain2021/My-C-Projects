@@ -1,2 +1,3 @@
 # Test-C-HTML-JS-
-A Test Git-Repo for C#, HTML AND JS
+A Git-Repo for My C# Projects
+
